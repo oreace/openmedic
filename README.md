@@ -1,4 +1,4 @@
-# Bitcoin Website
+# Openmedic Website
 [Openmedic](http://openmedic.litbulb.org) is a website for finding specific drugs close to your area (Lagos). It was created with PHP, JQuery and Bootstrap.
 
 ## Getting Started
